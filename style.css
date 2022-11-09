@@ -1,5 +1,5 @@
 .banner {
-    background: url(https://c0.wallpaperflare.com/preview/395/110/389/person-holding-book.jpg);
+    background: url(https://st3.depositphotos.com/1177973/13821/i/450/depositphotos_138219334-stock-photo-modern-workplace-with-cup.jpg);
     background-size: cover;
     padding-top: 15%;
     padding-bottom: 15%;
@@ -12,7 +12,7 @@
     margin: auto;
     height: 140px;
     color: rgb(190, 241, 48);
-    background-color: #35b5dc;
+    background-color: #202628bd;
   }
 
   global-nav__search-button {
@@ -52,7 +52,12 @@
     background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
       center center;
     background-size: cover;
-    padding-bottom: 40%;
-    padding-top: 40%;
+    padding-bottom: 20%;
+    padding-top: 20%;
     color: #fff;
+  }
+
+  .medsos {
+    background: salmon;
+    width: 800px;
   }
